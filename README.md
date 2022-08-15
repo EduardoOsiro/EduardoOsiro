@@ -1,6 +1,6 @@
 ## Olá, eu sou o Eduardo Osiro e bem vindo ao meu perfil! 👋😁
 
- <a href="https://github.com/rafaballerini">
+ <a href="https://github.com/EduardoOsiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoOsiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
 </div>
